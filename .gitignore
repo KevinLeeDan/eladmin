@@ -5,3 +5,5 @@
 */*.iml
 /.gradle/
 /application.pid
+.vscode/
+*.code-workspace
